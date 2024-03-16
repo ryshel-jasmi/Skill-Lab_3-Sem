@@ -32,7 +32,7 @@ The Shopping Site UI project presents a user interface designed for a shopping w
     
 ### Assignment 4: Backend Project Blog
 
-The Backend Blog project is a backend application developed with JavaScript, Node.js, Express.js, and MongoDB. It entails the creation of two schemas for Author and Blog, the implementation of CRUD operations (Create, Read, Update, Delete) using POST and GET APIs, and the storage of data in MongoDB. You can find the assignment files in the `backend-project-blog` directory.
+The Backend Blog project is a backend application developed with JavaScript, Node.js, Express.js, and MongoDB. It entails the creation of two schemas for Author and Blog, the implementation of CRUD operations (Create, Read, Update, Delete) using POST and GET APIs, and the storage of data in MongoDB. The assignment files are available in the `backend-project-blog` directory.
 - Folders:
     - `Backend`: Contains the backend server files, including `server.js` and other necessary files.
     - `Frontend`: Contains the frontend application files, including `app.js`, `app.css`, `index.js`, `index.css` and other necessary files.
