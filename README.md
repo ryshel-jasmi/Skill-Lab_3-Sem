@@ -6,29 +6,36 @@ This repo is intended for the Assignments of Skill Lab Full Stack Development Co
 1. [CSS Product Card](#assignment-1-css-product-card)
 2. [JavaScript Calculator](#assignment-2-javascript-calculator)
 3. [Shopping Cart UI](#assignment-3-shopping-cart-ui)
+4. [Backend Project Blog](#assignment-4-backend-project-blog)
 
 ### Assignment 1: CSS Product Card
 
-The CSS Product Card assignment is a simple exercise in creating a product card using HTML and CSS.  You can find the assignment files in the `css-product-card` folder.
+The CSS Product Card assignment is a basic task where you create a product card using HTML and CSS. The assignment files are available in the 'css-product-card' directory.
 - Files: `index.html`, `style.css`
 - Images:
   - `shoe.jpg`
 
 ### Assignment 2: JavaScript Calculator
 
-The JavaScript Calculator assignment is a simple calculator application built using HTML, CSS, and JavaScript. The calculator includes basic arithmetic operations such as addition, subtraction, multiplication, and division. You can find the assignment files in the `javascript-calculator` folder.
-- Files: `index.html`, `style.css`, `style.js`
+The JavaScript Calculator project is a basic calculator application made with HTML, CSS, and JavaScript. It supports fundamental arithmetic operations like addition, subtraction, multiplication, and division. The assignment files are available in the 'javascript-calculator' directory.
+- Files: `index.css`, `index.html`, `script.js`
 
 ### Assignment 3: Shopping Cart UI
 
-The Shopping Site UI assignment is a user interface for a shopping site built using React.js. It showcases various products with their images, names, descriptions, ratings, and prices. Users can add products to their cart, adjust quantities, and remove items from the cart. You can find the assignment files in the `shopping-cart-ui` folder.
-- Files: `App.js`, `main.css`, `ratingStars.js`, `shoppingCart.js`,`shoppingCart.css`
+The Shopping Site UI project presents a user interface designed for a shopping website using React.js. It displays a range of products featuring their images, names, descriptions, ratings, and prices. Users have the ability to add products to their cart, adjust quantities, and remove items from their cart. The assignment files are available in the 'shopping-cart-ui' directory.
+- Files: `RatingStars.js`, `ShoppingCart.js`, `main.css`, `shoppingCart.css`, `App.js`, 'index.js'
 - Images:
   - `product-1.jpg`
   - `product-2.jpg`
   - ...
   - `product-8.jpg`
+    
+### Assignment 4: Backend Project Blog
 
+The Backend Blog project is a backend application developed with JavaScript, Node.js, Express.js, and MongoDB. It entails the creation of two schemas for Author and Blog, the implementation of CRUD operations (Create, Read, Update, Delete) using POST and GET APIs, and the storage of data in MongoDB. You can find the assignment files in the 'backend-project-blog' directory.
+- Folders:
+    - `Backend`: Contains the backend server files, including `server.js` and other necessary files.
+    - `Frontend`: Contains the frontend application files, including `app.js`, `app.css`, `index.js`, `index.css` and other necessary files.
 
 ## Installation
 
