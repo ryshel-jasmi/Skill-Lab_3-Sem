@@ -1,4 +1,4 @@
-# Skill-Lab
+# Skill-Lab (3rd Sem)
 This repo is intended for the Assignments of Skill Lab Full Stack Development Course.
 
 ## Table of Contents
